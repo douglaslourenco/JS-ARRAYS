@@ -1,6 +1,6 @@
 # JS-ARRAYS
 
-▫ Compreenda o que são arrays e porque são importantes
+▫ Compreenda o que são arrays e porque são importantes </br>
 ▫ Altere arrays com os métodos do JS
 ▫ Entenda o que são laços de repetição e como usá-los
 ▫ Modifique arrays utilizando métodos do JS moderno (ES6 em diante)
